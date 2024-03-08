@@ -37,9 +37,8 @@
                 android:id="@+id/imgDetail"
                 android:layout_width="140sp"
                 android:layout_height="120sp"
-                android:layout_weight="1"
                 android:layout_gravity="center"
-                />
+                android:layout_weight="1" />
 
             <TextView
                 android:id="@+id/txtDetail"

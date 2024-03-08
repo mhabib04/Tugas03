@@ -51,7 +51,7 @@ public class FishActivity extends AppCompatActivity implements View.OnClickListe
             detail.setJenis("Jenis Ikan : Cupang\n");
             detail.setUmur("Berumur : 5 bulan\n");
             detail.setJenisKelamin("Jenis Kelamin : -\n");
-            detail.setWarna("Berwarna Putih\n");
+            detail.setWarna("Berwarna Merah\n");
             detail.setHarga("Harga : Rp255.000");
             detail.setGambar("fish_cupang");
             intent = new Intent(FishActivity.this, DetailActivity.class);
@@ -61,7 +61,7 @@ public class FishActivity extends AppCompatActivity implements View.OnClickListe
             detail.setJenis("Jenis Ikan : Discus\n");
             detail.setUmur("Berumur : 8 bulan\n");
             detail.setJenisKelamin("Jenis Kelamin : -\n");
-            detail.setWarna("Berwarna Abu-abu\n");
+            detail.setWarna("Berwarna Orange\n");
             detail.setHarga("Harga : Rp430.000");
             detail.setGambar("fish_discus");
             intent = new Intent(FishActivity.this, DetailActivity.class);
@@ -71,7 +71,7 @@ public class FishActivity extends AppCompatActivity implements View.OnClickListe
             detail.setJenis("Jenis Ikan : Guppy\n");
             detail.setUmur("Berumur : 6 bulan\n");
             detail.setJenisKelamin("Jenis Kelamin : -\n");
-            detail.setWarna("Berwarna Abu-abu\n");
+            detail.setWarna("Berwarna Hijau\n");
             detail.setHarga("Harga : Rp360.000");
             detail.setGambar("fish_guppy");
             intent = new Intent(FishActivity.this, DetailActivity.class);
@@ -81,7 +81,7 @@ public class FishActivity extends AppCompatActivity implements View.OnClickListe
             detail.setJenis("Jenis Ikan : Koi\n");
             detail.setUmur("Berumur : 5 bulan\n");
             detail.setJenisKelamin("Jenis Kelamin : -\n");
-            detail.setWarna("Berwarna Abu-abu\n");
+            detail.setWarna("Berwarna Putih-Orang-Hitam(Mix)\n");
             detail.setHarga("Harga : Rp250.000");
             detail.setGambar("fish_koi");
             intent = new Intent(FishActivity.this, DetailActivity.class);
@@ -91,7 +91,7 @@ public class FishActivity extends AppCompatActivity implements View.OnClickListe
             detail.setJenis("Jenis Ikan : Moorish Idol\n");
             detail.setUmur("Berumur : 10 bulan\n");
             detail.setJenisKelamin("Jenis Kelamin : -\n");
-            detail.setWarna("Berwarna Abu-abu\n");
+            detail.setWarna("Berwarna Orange\n");
             detail.setHarga("Harga : Rp470.000");
             detail.setGambar("fish_moorish_idol");
             intent = new Intent(FishActivity.this, DetailActivity.class);
